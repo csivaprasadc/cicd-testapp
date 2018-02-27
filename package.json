@@ -1,0 +1,18 @@
+{
+  "name": "cicd-testapp",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Test App from CI and CD using Pluralsight tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sivaprasad Chidambaram",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "mocha": "^5.0.1",
+    "supertest": "^3.0.0"
+  }
+}
